@@ -27,7 +27,7 @@ public class BusTimes {
 			System.out.println("The next Bus Times are:");
 			System.out.println(" AB Line " + BestTime);
 			int ArrivalTime = ArrivalTime(abSAACtoCampus,BestTime);
-			System.out.println("The next Buses have arrive at:");
+			System.out.println("The next Buse arrives at:");
 			System.out.println(" AB Line " + ArrivalTime);
 
 		}
